@@ -1,2 +1,7 @@
-# Franta-musicplayer-2025sep-github.io
+# Franta-musicplayer
 MUZIK
+
+# to do list 
+-[x] Create To Do List in Markdown
+[] TBA
+---
