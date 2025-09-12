@@ -2,6 +2,8 @@
 MUZIK
 
 # to do list 
--[x] Create To Do List in Markdown
-[] TBA
+- [x] Create To Do List in Markdown
+- [x] Thematic music player
+- [ ] 3 songs and 1 sound effect (minimum)
+- []  TBA
 ---
